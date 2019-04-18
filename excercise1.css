@@ -1,0 +1,101 @@
+div {
+  display: block;
+}
+
+ol {
+  background: rgb(105, 92, 6);
+  padding: 20px;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+ol li {
+  background: black;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.nomor1 {
+  background-color: #ca372c;
+}
+
+.nomor2 {
+  background-color: #39ca3e;
+}
+
+.nomor3 {
+  background-color: #e8f720;
+}
+
+.nomor4 {
+  background-color: #6e7b80;
+}
+
+.nomor5 {
+  background-color: #83a6ca;
+}
+
+==============================================================================
+
+/*  buat pertanyaan*/
+p {
+  color: #fff;
+  background-color: #fff;
+}
+
+/* ====== */
+ul {
+  background: #cce5ff;
+  padding: 20px;
+}
+
+ul {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  background: black;
+}
+
+ul li {
+  background: #4d5661;
+  margin: 35px;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+ul, menu, dir {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  display: block;
+}
